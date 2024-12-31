@@ -1,0 +1,7 @@
+owasp-amass/amass
+fwaeytens/dnsenum
+darkoperator/dnsrecon
+mschwager/fierce
+netdiscover-scanner/netdiscover
+sqlmapproject/sqlmap
+EnableSecurity/wafw00f
